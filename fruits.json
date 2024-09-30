@@ -1,0 +1,72 @@
+[
+  {
+    "isim": "Muz",
+    "kalori": "77 Kalori",
+    "karbonhidrat": "23 gram",
+    "protein": "1.1 gram",
+    "yag": "0.3 gram"
+  },
+  {
+    "isim": "Elma",
+    "kalori": "52 Kalori",
+    "karbonhidrat": "14 gram",
+    "protein": "0.3 gram",
+    "yag": "0.2 gram"
+  },
+  {
+    "isim": "Portakal",
+    "kalori": "47 Kalori",
+    "karbonhidrat": "12 gram",
+    "protein": "0.9 gram",
+    "yag": "0.1 gram"
+  },
+  {
+    "isim": "Armut",
+    "kalori": "57 Kalori",
+    "karbonhidrat": "15 gram",
+    "protein": "0.4 gram",
+    "yag": "0.1 gram"
+  },
+  {
+    "isim": "Çilek",
+    "kalori": "32 Kalori",
+    "karbonhidrat": "7.7 gram",
+    "protein": "0.7 gram",
+    "yag": "0.3 gram"
+  },
+  {
+    "isim": "Kavun",
+    "kalori": "34 Kalori",
+    "karbonhidrat": "8.2 gram",
+    "protein": "0.8 gram",
+    "yag": "0.2 gram"
+  },
+  {
+    "isim": "Karpuz",
+    "kalori": "30 Kalori",
+    "karbonhidrat": "8 gram",
+    "protein": "0.6 gram",
+    "yag": "0.2 gram"
+  },
+  {
+    "isim": "Üzüm",
+    "kalori": "69 Kalori",
+    "karbonhidrat": "18 gram",
+    "protein": "0.6 gram",
+    "yag": "0.2 gram"
+  },
+  {
+    "isim": "Mango",
+    "kalori": "60 Kalori",
+    "karbonhidrat": "15 gram",
+    "protein": "0.8 gram",
+    "yag": "0.4 gram"
+  },
+  {
+    "isim": "Ananas",
+    "kalori": "50 Kalori",
+    "karbonhidrat": "13 gram",
+    "protein": "0.5 gram",
+    "yag": "0.1 gram"
+  }
+]
